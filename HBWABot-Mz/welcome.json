@@ -7,10 +7,10 @@
     "message": "Hello New_User, I'm Bot_Name\nWe welcome you to our Group_Name, please read our Description:\nGroup_Des"
   },
   {
-    "groupid": "120363362885974816@g.us",
+    "groupid": "120363046850546915@g.us",
     "botid": "916009136453@s.whatsapp.net",
     "welcome": true,
     "mediaurl": "https://raw.githubusercontent.com/HBMods-OFC/Vawk/master/Media/welcome.mp4",
-    "message": "Hello New_User"
+    "message": "Hello New_User, I'm Bot_Name\nWe welcome you to our Group_Name, please read our Description:\nGroup_Des"
   }
 ]
