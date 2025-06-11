@@ -171,7 +171,7 @@
   {
     "name": "Bee J emm Lalhruaitluanga",
     "id": "919362384311@s.whatsapp.net",
-    "expired": "2025-06-11"
+    "expired": "lifetime"
   },
   {
     "name": "°Bawihpuia ~",
@@ -326,5 +326,9 @@
   {
     "id": "917005490977@s.whatsapp.net",
     "expired": "2025-07-09"
+  },
+  {
+    "id": "917085972764@s.whatsapp.net",
+    "expired": "lifetime"
   }
 ]
